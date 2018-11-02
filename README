@@ -1,4 +1,4 @@
 This directory contains an example Android client for https://appr.tc
 
-Original Code is taken from http://chromium.googlesource.com project and is property of their respective owners.
+Original Code is taken from http://chromium.googlesource.com project and is property of their respective owners. I just made to changes to some of the file so it can use new Gradle build system.
 
